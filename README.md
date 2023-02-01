@@ -35,10 +35,9 @@ function App() {
     </div>
   );
 }
-```
 
 export default App;
-
+```
 ## Built With
 - ReactJS
 - Create React App
