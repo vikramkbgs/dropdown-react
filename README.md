@@ -35,7 +35,8 @@ function App() {
     </div>
   );
 }
-javascript```
+
+```javascript
 export default App;
 
 ## Built With
