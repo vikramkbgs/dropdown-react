@@ -24,7 +24,7 @@ The project consists of two components:
 ## Code Example
 Here is an example of how to use the Dropdown component:
 
-```
+```javascript
 import React from "react";
 import Dropdown from "./Dropdown";
 
@@ -35,8 +35,8 @@ function App() {
     </div>
   );
 }
+```
 
-```javascript
 export default App;
 
 ## Built With
