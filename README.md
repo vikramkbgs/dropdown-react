@@ -42,7 +42,7 @@ export default App;
 - ReactJS
 - Create React App
 
-##Screenshot
+## Screenshot
 ![Dropdown](./src/assests/dropdown.png)
 
 ## Author
