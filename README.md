@@ -42,6 +42,9 @@ export default App;
 - ReactJS
 - Create React App
 
+##Screenshot
+![Dropdown](./src/assests/dropdown.png)
+
 ## Author
 [Vikram](https://github.com/vikramkbgs)
 
