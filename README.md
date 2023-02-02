@@ -45,7 +45,7 @@ export default App;
 [Dropdown](https://dropdown-react.vikramroy1.repl.co/)
 
 ## Screenshot
-![Dropdown](./src/assests/dropdown.png)
+![Click me Dropdown!](./src/assests/dropdown.png)
 
 ## Author
 [Vikram](https://github.com/vikramkbgs)
