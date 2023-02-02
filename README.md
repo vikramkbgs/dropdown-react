@@ -42,10 +42,10 @@ export default App;
 - ReactJS
 - Create React App
 ## Live 
-[Dropdown](https://dropdown-react.vikramroy1.repl.co/)
+[Click me Dropdown!](https://dropdown-react.vikramroy1.repl.co/)
 
 ## Screenshot
-![Click me Dropdown!](./src/assests/dropdown.png)
+![Dropdown image](./src/assests/dropdown.png)
 
 ## Author
 [Vikram](https://github.com/vikramkbgs)
